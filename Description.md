@@ -31,6 +31,7 @@ To use this application, follow these steps:
 ![Login Screen](/Screenshots/Login-Register.png)
 *Login Screen*
 
+
 ![Password Management](/Screenshots/1.png)
 *Password Management*
 
