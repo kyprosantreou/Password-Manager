@@ -38,4 +38,8 @@ To use this application, follow these steps:
 **Password Management**
 
 
+## Author
+
+Created by [Kypros Andreou].
+
 
