@@ -27,12 +27,17 @@ To use this application, follow these steps:
 3. Run the `main.py` script to start the application.
 
 ## Screenshots
+
 **Login Screen**
+
+
 ![Login Screen](/Screenshots/Login-Register.png)
 
 
 
 **Password Management**
+
+
 ![Password Management](/Screenshots/1.png)
 
 
