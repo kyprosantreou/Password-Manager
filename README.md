@@ -21,7 +21,7 @@ To use this application, follow these steps:
 2. Install the required dependencies using the following command:
 
     ```
-    pip install flet cryptography sqlite3
+    pip install flet cryptography mysql-connector-python argon2-cffi pyotp
     ```
 
 3. Run the `main.py` script to start the application.
