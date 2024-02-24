@@ -11,7 +11,7 @@ This application allows users to manage their passwords for various services and
 - User authentication and registration
 - Password encryption and decryption using Fernet cryptography
 - Tab-based interface for different password management actions
-- SQLite database integration for storing account information
+- Mysql database integration for storing account information
 
 ## Usage
 
