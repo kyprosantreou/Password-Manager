@@ -40,6 +40,6 @@ To use this application, follow these steps:
 
 ## Author
 
-Created by [Kypros Andreou].
+Created by Kypros Andreou.
 
 
